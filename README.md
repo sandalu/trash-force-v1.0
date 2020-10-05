@@ -8,3 +8,6 @@ We have added and spread out satellites and loaded them with their respective Tw
 To make it more immersive and fun for the player, We have added space monuments like the moon and the International space station.
 
 Although the game is just a simulation as of the time being, We hope to add missions and scores to make it more fun for the user in the future.
+
+* To play the game. Go to `https://sandalu.github.io/trash-force-v1.0/index.html`
+
