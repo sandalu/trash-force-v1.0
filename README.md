@@ -9,5 +9,6 @@ To make it more immersive and fun for the player, We have added space monuments 
 
 Although the game is just a simulation as of the time being, We hope to add missions and scores to make it more fun for the user in the future.
 
-* To play the game. Go to `https://sandalu.github.io/trash-force-v1.0/index.html`
+* To play the game. Go to (https://sandalu.github.io/trash-force-v1.0/index.html)
+* Only wirtten scripts in Assets are added to the repository due to insufficient storage. Complete Assets folder is available at (https://drive.google.com/drive/folders/1ip3_3pws3-3VDgyREFNUTQsbHrPJsnjJ?usp=sharing)
 
